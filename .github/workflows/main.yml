@@ -24,4 +24,4 @@ jobs:
           BDUSS: ${{ secrets.BDUSS }}
         run: python main.py
 
-      - uses: actions/setup-node@v3
+
